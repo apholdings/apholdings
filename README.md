@@ -27,8 +27,8 @@ At **SoloPython**, I share tutorials, tips, and projects on various topics relat
 I love connecting with fellow developers and learners. Feel free to reach out to me on these platforms:
 
 - [YouTube](https://www.youtube.com/c/SoloPython) - Subscribe to my channel!
-- [Twitter](https://twitter.com/solopython) - Follow me for updates and tips!
-- [LinkedIn](https://www.linkedin.com/in/solopython) - Let's connect professionally!
+- [Twitter](https://twitter.com/boomslag_) - Follow me for updates and tips!
+- [LinkedIn](https://www.linkedin.com/in/eric-alexander-2820211b9/) - Let's connect professionally!
 
 ## Support My Work 🌟
 
