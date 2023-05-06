@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hello, I'm SoloPython! 👋
 
-<!--
-**apholdings/apholdings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and educator with a passion for teaching and sharing my knowledge. I have a successful YouTube channel called **SoloPython** with over 118K subscribers, where I teach software development using Python, focusing on Django, Artificial Intelligence, and Ethical Hacking.
 
-Here are some ideas to get you started:
+## My Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C#, .NET
+- **Web Development:** React, Next.js, Electron
+- **Game Development:** Unity
+- **Frameworks:** Django
+- **AI & ML:** TensorFlow, Keras, PyTorch
+
+## About My YouTube Channel 📺
+
+At **SoloPython**, I share tutorials, tips, and projects on various topics related to software development. My goal is to help people learn new skills and advance their careers in technology. Here are some of the topics you can expect to find on my channel:
+
+- Django web development
+- Artificial Intelligence and Machine Learning
+- Ethical Hacking
+- React and Next.js
+- Electron
+- Unity game development
+- And much more!
+
+## Connect with Me 🌐
+
+I love connecting with fellow developers and learners. Feel free to reach out to me on these platforms:
+
+- [YouTube](https://www.youtube.com/c/SoloPython) - Subscribe to my channel!
+- [Twitter](https://twitter.com/solopython) - Follow me for updates and tips!
+- [LinkedIn](https://www.linkedin.com/in/solopython) - Let's connect professionally!
+
+## Support My Work 🌟
+
+If you find my content helpful and want to support my work, consider buying me a coffee:
+
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/solopython)
+
+Thank you for visiting my profile, and happy coding! 😄
