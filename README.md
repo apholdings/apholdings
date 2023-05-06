@@ -10,6 +10,10 @@ I'm a software developer and educator with a passion for teaching and sharing my
 - **Frameworks:** Django
 - **AI & ML:** TensorFlow, Keras, PyTorch
 
+## PyPi Projects 🐍
+
+- [**Django Rest Framework API Response**](https://pypi.org/project/djangorestframework-api-response/) - Check out the best way to write APIs in django!
+
 ## About My YouTube Channel 📺
 
 At **SoloPython**, I share tutorials, tips, and projects on various topics related to software development. My goal is to help people learn new skills and advance their careers in technology. Here are some of the topics you can expect to find on my channel:
